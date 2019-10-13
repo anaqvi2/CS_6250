@@ -1,0 +1,13 @@
+# Simple Topology negetive edges
+# Basic Mechanics - contains bidirectional links, a unidirectional link, pos/neg/0 link weights.
+# A --(-1)--> B <--(-1)--> C
+# |                        ^
+# |                        |
+# --------------(-1)--------
+#
+# File Format:
+# Node, Neighbor, Weight, Neighbor, Weight  (repeat as needed)
+#
+A,B,-1,C,-1
+B,C,-1
+C,B,-1
