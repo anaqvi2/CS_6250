@@ -103,6 +103,7 @@ if __name__ == '__main__':
 
 
           # add some
+	  print(rects2[0])
           plt.xlabel('Time (ms)')
           plt.ylabel('Request Index')
           plt.title('TFO Timing Breakdown: %s at %i ms RTT' % (page[4:], latency*2))

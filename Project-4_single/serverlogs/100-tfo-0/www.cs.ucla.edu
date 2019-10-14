@@ -1,0 +1,10 @@
+HTTP Running : 8000  from  /home/mininet/syed_work/Project-4/myURLS/www.cs.ucla.edu  with delay  0.0 s
+<socket._socketobject object at 0x7f0b213a5b40>
+/home/mininet/syed_work/Project-4/myURLS/www.cs.ucla.edu/
+/home/mininet/syed_work/Project-4/myURLS/www.cs.ucla.edu/index.html
+10.0.0.2 - - [14/Oct/2019 05:22:53] "GET / HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f0b213a5b40>
+/home/mininet/syed_work/Project-4/myURLS/www.cs.ucla.edu/
+/home/mininet/syed_work/Project-4/myURLS/www.cs.ucla.edu/index.html
+10.0.0.2 - - [14/Oct/2019 05:22:53] "GET / HTTP/1.1" 200 -
+Killed
