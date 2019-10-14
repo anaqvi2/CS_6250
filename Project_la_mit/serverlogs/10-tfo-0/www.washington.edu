@@ -1,0 +1,102 @@
+HTTP Running : 8000  from  /home/mininet/syed_work/Project-4/myURLS/www.washington.edu  with delay  0.0 s
+<socket._socketobject object at 0x7f99be45eb40>
+/home/mininet/syed_work/Project-4/myURLS/www.washington.edu/
+/home/mininet/syed_work/Project-4/myURLS/www.washington.edu/index.html
+10.0.0.10 - - [14/Oct/2019 03:54:03] "GET / HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f99be45eb40>
+/home/mininet/syed_work/Project-4/myURLS/www.washington.edu/static/home/wp-content/themes/uw-2014/style.css
+/static/home/wp-content/themes/uw-2014/style.css?088f75a
+10.0.0.10 - - [14/Oct/2019 03:54:03] "GET /static/home/wp-content/themes/uw-2014/style.css?088f75a HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f99be45eb40>
+/home/mininet/syed_work/Project-4/myURLS/www.washington.edu/static/home/wp-content/themes/boundless/style.css
+/static/home/wp-content/themes/boundless/style.css?088f75a
+10.0.0.10 - - [14/Oct/2019 03:54:03] "GET /static/home/wp-content/themes/boundless/style.css?088f75a HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f99be45eb40>
+/home/mininet/syed_work/Project-4/myURLS/www.washington.edu/static/home/wp-content/themes/uw-2014/js/libraries/jquery.min.js
+/static/home/wp-content/themes/uw-2014/js/libraries/jquery.min.js?088f75a
+/static/home/wp-content/themes/uw-2014/js/libraries/jquery.min.js?088f75a
+trying hash: 5a1fefc53f6ffc6270a39d81e3698253
+10.0.0.10 - - [14/Oct/2019 03:54:03] "GET /static/home/wp-content/themes/uw-2014/js/libraries/jquery.min.js?088f75a HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f99be45eb40>
+/home/mininet/syed_work/Project-4/myURLS/www.washington.edu/static/home/wp-includes/js/underscore.min.js
+/static/home/wp-includes/js/underscore.min.js?088f75a
+10.0.0.10 - - [14/Oct/2019 03:54:04] "GET /static/home/wp-includes/js/underscore.min.js?088f75a HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f99be45eb40>
+/home/mininet/syed_work/Project-4/myURLS/www.washington.edu/static/home/wp-content/plugins/uw-analytics/analytics.js
+/static/home/wp-content/plugins/uw-analytics/analytics.js?088f75a
+/static/home/wp-content/plugins/uw-analytics/analytics.js?088f75a
+trying hash: bb252a61dbc0c39c6e86fb860cc9bf1a
+10.0.0.10 - - [14/Oct/2019 03:54:04] "GET /static/home/wp-content/plugins/uw-analytics/analytics.js?088f75a HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f99be45eb40>
+/home/mininet/syed_work/Project-4/myURLS/www.washington.edu/static/home/wp-includes/js/backbone.min.js
+/static/home/wp-includes/js/backbone.min.js?088f75a
+10.0.0.10 - - [14/Oct/2019 03:54:04] "GET /static/home/wp-includes/js/backbone.min.js?088f75a HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f99be45eb40>
+/home/mininet/syed_work/Project-4/myURLS/www.washington.edu/static/home/wp-content/themes/uw-2014/js/site.js
+/static/home/wp-content/themes/uw-2014/js/site.js?088f75a
+10.0.0.10 - - [14/Oct/2019 03:54:04] "GET /static/home/wp-content/themes/uw-2014/js/site.js?088f75a HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f99be45eb40>
+/home/mininet/syed_work/Project-4/myURLS/www.washington.edu/static/home/wp-content/themes/boundless/js/homepage.js
+/static/home/wp-content/themes/boundless/js/homepage.js?088f75a
+10.0.0.10 - - [14/Oct/2019 03:54:04] "GET /static/home/wp-content/themes/boundless/js/homepage.js?088f75a HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f99be45eb40>
+/home/mininet/syed_work/Project-4/myURLS/www.washington.edu/static/home/wp-content/themes/boundless/js/homepage-event-tracking.js
+/static/home/wp-content/themes/boundless/js/homepage-event-tracking.js?088f75a
+/static/home/wp-content/themes/boundless/js/homepage-event-tracking.js?088f75a
+trying hash: 1c318854402933abc2599bc53ebe36cb
+10.0.0.10 - - [14/Oct/2019 03:54:04] "GET /static/home/wp-content/themes/boundless/js/homepage-event-tracking.js?088f75a HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f99be45eb40>
+/home/mininet/syed_work/Project-4/myURLS/www.washington.edu/home/wp-admin/admin-ajax.php
+/home/wp-admin/admin-ajax.php?action=quicklinks
+10.0.0.10 - - [14/Oct/2019 03:54:05] "GET /home/wp-admin/admin-ajax.php?action=quicklinks HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f99be45eb40>
+/home/mininet/syed_work/Project-4/myURLS/www.washington.edu/
+/home/mininet/syed_work/Project-4/myURLS/www.washington.edu/index.html
+10.0.0.10 - - [14/Oct/2019 03:54:05] "GET / HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f99be45eb40>
+/home/mininet/syed_work/Project-4/myURLS/www.washington.edu/static/home/wp-content/themes/uw-2014/style.css
+/static/home/wp-content/themes/uw-2014/style.css?088f75a
+10.0.0.10 - - [14/Oct/2019 03:54:05] "GET /static/home/wp-content/themes/uw-2014/style.css?088f75a HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f99be45eb40>
+/home/mininet/syed_work/Project-4/myURLS/www.washington.edu/static/home/wp-content/themes/boundless/style.css
+/static/home/wp-content/themes/boundless/style.css?088f75a
+10.0.0.10 - - [14/Oct/2019 03:54:05] "GET /static/home/wp-content/themes/boundless/style.css?088f75a HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f99be45eb40>
+/home/mininet/syed_work/Project-4/myURLS/www.washington.edu/static/home/wp-content/themes/uw-2014/js/libraries/jquery.min.js
+/static/home/wp-content/themes/uw-2014/js/libraries/jquery.min.js?088f75a
+/static/home/wp-content/themes/uw-2014/js/libraries/jquery.min.js?088f75a
+trying hash: 5a1fefc53f6ffc6270a39d81e3698253
+10.0.0.10 - - [14/Oct/2019 03:54:05] "GET /static/home/wp-content/themes/uw-2014/js/libraries/jquery.min.js?088f75a HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f99be45eb40>
+/home/mininet/syed_work/Project-4/myURLS/www.washington.edu/static/home/wp-content/plugins/uw-analytics/analytics.js
+/static/home/wp-content/plugins/uw-analytics/analytics.js?088f75a
+/static/home/wp-content/plugins/uw-analytics/analytics.js?088f75a
+trying hash: bb252a61dbc0c39c6e86fb860cc9bf1a
+10.0.0.10 - - [14/Oct/2019 03:54:06] "GET /static/home/wp-content/plugins/uw-analytics/analytics.js?088f75a HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f99be45eb40>
+/home/mininet/syed_work/Project-4/myURLS/www.washington.edu/static/home/wp-includes/js/underscore.min.js
+/static/home/wp-includes/js/underscore.min.js?088f75a
+10.0.0.10 - - [14/Oct/2019 03:54:06] "GET /static/home/wp-includes/js/underscore.min.js?088f75a HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f99be45eb40>
+/home/mininet/syed_work/Project-4/myURLS/www.washington.edu/static/home/wp-includes/js/backbone.min.js
+/static/home/wp-includes/js/backbone.min.js?088f75a
+10.0.0.10 - - [14/Oct/2019 03:54:06] "GET /static/home/wp-includes/js/backbone.min.js?088f75a HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f99be45eb40>
+/home/mininet/syed_work/Project-4/myURLS/www.washington.edu/static/home/wp-content/themes/uw-2014/js/site.js
+/static/home/wp-content/themes/uw-2014/js/site.js?088f75a
+10.0.0.10 - - [14/Oct/2019 03:54:06] "GET /static/home/wp-content/themes/uw-2014/js/site.js?088f75a HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f99be45eb40>
+/home/mininet/syed_work/Project-4/myURLS/www.washington.edu/static/home/wp-content/themes/boundless/js/homepage.js
+/static/home/wp-content/themes/boundless/js/homepage.js?088f75a
+10.0.0.10 - - [14/Oct/2019 03:54:06] "GET /static/home/wp-content/themes/boundless/js/homepage.js?088f75a HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f99be45eb40>
+/home/mininet/syed_work/Project-4/myURLS/www.washington.edu/static/home/wp-content/themes/boundless/js/homepage-event-tracking.js
+/static/home/wp-content/themes/boundless/js/homepage-event-tracking.js?088f75a
+/static/home/wp-content/themes/boundless/js/homepage-event-tracking.js?088f75a
+trying hash: 1c318854402933abc2599bc53ebe36cb
+10.0.0.10 - - [14/Oct/2019 03:54:06] "GET /static/home/wp-content/themes/boundless/js/homepage-event-tracking.js?088f75a HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f99be45eb40>
+/home/mininet/syed_work/Project-4/myURLS/www.washington.edu/home/wp-admin/admin-ajax.php
+/home/wp-admin/admin-ajax.php?action=quicklinks
+10.0.0.10 - - [14/Oct/2019 03:54:06] "GET /home/wp-admin/admin-ajax.php?action=quicklinks HTTP/1.1" 200 -
+Killed

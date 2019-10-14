@@ -1,0 +1,856 @@
+[26991:26996:6353656452:WARNING:proxy_service.cc(889)] PAC support disabled because there is no system implementation
+
+(test_shell:26991): IBUS-WARNING **: The owner of /home/mininet/.config/ibus/bus is not root!
+Loading hacky DNS from '/home/mininet/syed_work/Project-4/hack_dns' succeeded.
+Remapping 'fonts.googleapis.com' -> '10.0.0.1' port 8000
+Remapping '47642.global.siteimproveanalytics.io' -> '10.0.0.2' port 8000
+Remapping 'public-api.wordpress.com' -> '10.0.0.3' port 8000
+Remapping 'www.google-analytics.com' -> '10.0.0.4' port 8000
+Remapping 'siteimproveanalytics.com' -> '10.0.0.5' port 8000
+Remapping 'ad.doubleclick.net' -> '10.0.0.6' port 8000
+Remapping 'www.washington.edu' -> '10.0.0.7' port 8000
+Remapping 'fonts.gstatic.com' -> '10.0.0.8' port 8000
+Remapping 's3-us-west-2.amazonaws.com' -> '10.0.0.9' port 8000
+[26991:27002:6353830705:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[26991:27002:6353881153:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[26991:27002:6353927905:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[26991:27002:6353931046:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[26991:27002:6353931144:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[26991:27002:6353931175:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[26991:27002:6353931210:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[26991:27002:6353931268:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[26991:27002:6353978306:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[26991:27002:6353978662:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[26991:27002:6353983219:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[26991:27002:6353983266:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[26991:27002:6353983292:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[26991:27002:6353983318:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[26991:27002:6353984183:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[26991:27002:6353984540:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[26991:27002:6353987837:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[26991:27002:6354028551:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[26991:27002:6354028675:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[26991:27002:6354032842:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[26991:27002:6354033780:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[26991:27002:6354033817:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[26991:27002:6354033847:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[26991:27002:6354034794:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[26991:27002:6354036782:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[26991:27002:6354037978:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[26991:27002:6354078747:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[26991:27002:6354081463:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[26991:27002:6354082318:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[26991:27002:6354082361:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[26991:26991:6355128666:INFO:CONSOLE(0)] "Uncaught SyntaxError: Unexpected identifier," source: http://www.washington.edu/static/home/wp-content/themes/boundless/js/homepage-event-tracking.js?088f75a(95)
+[26991:27002:6355152589:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[26991:27002:6355152620:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[26991:27002:6355152632:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[26991:27002:6355154549:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[26991:27002:6355156147:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[26991:27002:6355156168:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[26991:27002:6355187186:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[26991:27002:6355217147:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[26991:27002:6355217196:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[26991:27002:6355217211:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[26991:27002:6355217225:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[26991:27002:6355224512:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[26991:27002:6355224548:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[26991:27002:6355224791:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[26991:27002:6355224815:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[26991:27002:6355224826:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[26991:27002:6355224837:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[26991:27002:6355224847:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[26991:27002:6355231212:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[26991:27002:6355243146:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[26991:27002:6355261607:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[26991:27002:6355268914:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[26991:27002:6355270043:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[26991:27002:6355270092:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[26991:27002:6355270130:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[26991:27002:6355275042:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[26991:27002:6355275060:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[26991:27002:6355276093:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[26991:27002:6355282528:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[26991:27002:6355288368:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[26991:27002:6355288400:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[26991:27002:6355290954:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[26991:27002:6355290984:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[26991:27002:6355290995:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[26991:27002:6355298269:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[26991:27002:6355321172:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[26991:27002:6355330315:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[26991:27002:6355337813:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[26991:27002:6355337857:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[26991:27002:6355337874:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[26991:27002:6355345500:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[26991:27002:6355352233:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[26991:27002:6355352274:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[26991:27002:6355372847:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[26991:27002:6355381948:WARNING:nss_ssl_util.cc(230)] Unknown SSL error -12263 mapped to net::ERR_SSL_PROTOCOL_ERROR
+<stats>
+c:tfo.supported:	0
+c:WebFrameActiveCount:	1
+t:tfo.page_load_timer:	1812
+c:URLRequestCount:	32
+c:disk_cache.miss:	32
+c:HttpNetworkTransaction.Count:	32
+c:tcp.connect:	91
+c:tcp.write_bytes:	19108
+c:tcp.read_bytes:	714607
+</stats>
+
+<resolves>
+strt (ms) | end (ms)  | len (ms)  | err | url:port -> address_list
+   95.874 |  1580.973 |  1485.099 |   0 | www.washington.edu:80 ->  10.0.0.7:8000
+   95.979 |    95.979 |     0.000 |   1 | www.washington.edu:80 ->  nil
+  184.398 |   184.398 |     0.000 |   1 | www.washington.edu:80 ->  nil
+  184.417 |   184.417 |     0.000 |   1 | www.washington.edu:80 ->  nil
+  184.649 |   313.202 |   128.553 |   0 | fonts.googleapis.com:443 ->  10.0.0.1:8000
+  184.675 |   184.675 |     0.000 |   1 | fonts.googleapis.com:443 ->  nil
+  184.678 |   184.678 |     0.000 |   1 | fonts.googleapis.com:443 ->  nil
+  184.877 |   184.877 |     0.000 |   1 | www.washington.edu:80 ->  nil
+  184.886 |   184.886 |     0.000 |   1 | www.washington.edu:80 ->  nil
+  185.087 |   185.087 |     0.000 |   1 | www.washington.edu:80 ->  nil
+  185.095 |   185.095 |     0.000 |   1 | www.washington.edu:80 ->  nil
+  185.286 |   185.286 |     0.000 |   1 | www.washington.edu:80 ->  nil
+  185.295 |   185.295 |     0.000 |   1 | www.washington.edu:80 ->  nil
+  185.455 |   185.455 |     0.000 |   1 | www.washington.edu:80 ->  nil
+  185.464 |   185.464 |     0.000 |   1 | www.washington.edu:80 ->  nil
+  185.611 |   185.611 |     0.000 |   1 | www.washington.edu:80 ->  nil
+  186.151 |   186.151 |     0.000 |   1 | www.washington.edu:80 ->  nil
+  186.294 |   186.294 |     0.000 |   1 | www.washington.edu:80 ->  nil
+  262.986 |   262.986 |     0.000 |   1 | fonts.googleapis.com:443 ->  nil
+  263.018 |   263.018 |     0.000 |   1 | fonts.googleapis.com:443 ->  nil
+  263.021 |   263.021 |     0.000 |   1 | fonts.googleapis.com:443 ->  nil
+  284.084 |  1762.346 |  1478.262 |   0 | s3-us-west-2.amazonaws.com:443 ->  10.0.0.9:8000
+  284.124 |   284.124 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+  284.127 |   284.127 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+  289.725 |   289.725 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+  289.743 |   289.743 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+  289.746 |   289.746 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+  292.596 |   292.596 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+  292.618 |   292.618 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+  292.621 |   292.621 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+  292.679 |   292.679 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+  292.689 |   292.689 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+  292.690 |   292.690 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+  292.740 |   292.740 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+  292.749 |   292.749 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+  292.750 |   292.750 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+  299.066 |   299.066 |     0.000 |   1 | www.washington.edu:80 ->  nil
+  299.622 |   299.622 |     0.000 |   1 | www.washington.edu:80 ->  nil
+  313.173 |   313.173 |     0.000 |   1 | fonts.googleapis.com:443 ->  nil
+  313.198 |   313.198 |     0.000 |   1 | fonts.googleapis.com:443 ->  nil
+  313.201 |   313.201 |     0.000 |   1 | fonts.googleapis.com:443 ->  nil
+  360.007 |   360.007 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+  360.020 |   360.020 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+  360.531 |   360.531 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+  360.560 |   360.560 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+  360.563 |   360.563 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+  363.183 |   363.183 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+  363.189 |   363.189 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+  363.384 |   363.384 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+  363.388 |   363.388 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+  363.516 |   363.516 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+  363.520 |   363.520 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+  364.095 |   364.095 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+  364.113 |   364.113 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+  364.116 |   364.116 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+  364.160 |   364.160 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+  364.172 |   364.172 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+  364.179 |   364.179 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+  364.216 |   364.216 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+  364.228 |   364.228 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+  364.229 |   364.229 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+  364.266 |   364.266 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+  364.277 |   364.277 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+  364.279 |   364.279 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+  410.532 |   410.532 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+  410.532 |   410.532 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+  411.234 |   411.234 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+  411.257 |   411.257 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+  411.259 |   411.259 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+  415.457 |   415.457 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+  415.466 |   415.466 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+  416.106 |   416.106 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+  416.110 |   416.110 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+  416.306 |   416.306 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+  416.321 |   416.321 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+  416.323 |   416.323 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+  416.355 |   416.355 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+  416.366 |   416.366 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+  416.367 |   416.367 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+  416.459 |   416.459 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+  416.462 |   416.462 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+  416.524 |   416.524 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+  416.538 |   416.538 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+  416.540 |   416.540 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+  419.831 |   419.831 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+  419.832 |   419.832 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+  419.832 |   419.832 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+  460.733 |   460.733 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+  460.745 |   460.745 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+  465.777 |   465.777 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+  465.782 |   465.782 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+  465.899 |   465.899 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+  465.903 |   465.903 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+  465.973 |   465.973 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+  465.976 |   465.976 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+  779.735 |   779.735 |     0.000 |   1 | www.washington.edu:80 ->  nil
+  807.459 |   807.459 |     0.000 |   1 | www.washington.edu:80 ->  nil
+  951.327 |   951.327 |     0.000 |   1 | www.washington.edu:80 ->  nil
+ 1517.694 |  1782.049 |   264.355 |   0 | www.google-analytics.com:80 ->  10.0.0.4:8000
+ 1517.719 |  1517.719 |     0.000 |   1 | www.google-analytics.com:80 ->  nil
+ 1518.364 |  1675.347 |   156.983 |   0 | ad.doubleclick.net:443 ->  10.0.0.6:8000
+ 1518.386 |  1518.386 |     0.000 |   1 | ad.doubleclick.net:443 ->  nil
+ 1518.388 |  1518.388 |     0.000 |   1 | ad.doubleclick.net:443 ->  nil
+ 1523.770 |  1523.770 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1523.790 |  1523.790 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1523.792 |  1523.792 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1523.992 |  1523.992 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1524.006 |  1524.006 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1524.008 |  1524.008 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1524.327 |  1524.327 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1524.340 |  1524.340 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1524.342 |  1524.342 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1524.542 |  1524.542 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1524.554 |  1524.554 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1524.558 |  1524.558 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1524.839 |  1524.839 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1524.852 |  1524.852 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1524.854 |  1524.854 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1525.055 |  1525.055 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1525.068 |  1525.068 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1525.070 |  1525.070 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1525.379 |  1525.379 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1525.558 |  1525.558 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1559.130 |  1559.136 |     0.006 |   0 | siteimproveanalytics.com:80 ->  10.0.0.5:8000
+ 1559.136 |  1559.136 |     0.000 |   1 | siteimproveanalytics.com:80 ->  nil
+ 1580.949 |  1580.949 |     0.000 |   1 | www.washington.edu:80 ->  nil
+ 1580.972 |  1580.972 |     0.000 |   1 | www.washington.edu:80 ->  nil
+ 1586.038 |  1586.038 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1586.054 |  1586.054 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1586.140 |  1586.140 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1586.143 |  1586.143 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1586.184 |  1586.184 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1586.188 |  1586.188 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1586.249 |  1586.249 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1586.267 |  1586.267 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1586.269 |  1586.269 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1586.302 |  1586.302 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1586.318 |  1586.318 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1586.319 |  1586.319 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1586.348 |  1586.348 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1586.359 |  1586.359 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1586.360 |  1586.360 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1586.524 |  1586.524 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1586.528 |  1586.528 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1586.574 |  1586.574 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1586.588 |  1586.588 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1586.590 |  1586.590 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1588.083 |  1588.083 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1588.088 |  1588.088 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1588.135 |  1588.135 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1588.138 |  1588.138 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1588.974 |  1588.974 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1588.991 |  1588.991 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1588.993 |  1588.993 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1589.029 |  1589.029 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1589.039 |  1589.039 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1589.040 |  1589.040 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1601.334 |  1753.319 |   151.985 |   0 | public-api.wordpress.com:443 ->  10.0.0.3:8000
+ 1601.368 |  1601.368 |     0.000 |   1 | public-api.wordpress.com:443 ->  nil
+ 1601.371 |  1601.371 |     0.000 |   1 | public-api.wordpress.com:443 ->  nil
+ 1621.911 |  1621.911 |     0.000 |   1 | ad.doubleclick.net:443 ->  nil
+ 1621.938 |  1621.938 |     0.000 |   1 | ad.doubleclick.net:443 ->  nil
+ 1621.941 |  1621.941 |     0.000 |   1 | ad.doubleclick.net:443 ->  nil
+ 1649.207 |  1649.207 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1649.218 |  1649.218 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1649.291 |  1649.291 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1649.294 |  1649.294 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1649.344 |  1649.344 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1649.347 |  1649.347 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1649.394 |  1649.394 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1649.397 |  1649.397 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1649.508 |  1649.508 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1649.527 |  1649.527 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1649.528 |  1649.528 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1649.565 |  1649.565 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1649.576 |  1649.576 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1649.577 |  1649.577 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1649.608 |  1649.608 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1649.623 |  1649.623 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1649.632 |  1649.632 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1649.633 |  1649.633 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1656.531 |  1656.531 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1656.536 |  1656.536 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1656.587 |  1656.587 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1656.605 |  1656.605 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1656.616 |  1656.616 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1656.617 |  1656.617 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1656.886 |  1656.886 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1656.890 |  1656.890 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1657.105 |  1657.105 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1657.119 |  1657.119 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1657.121 |  1657.121 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1663.368 |  1663.368 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1663.377 |  1663.377 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1663.452 |  1663.452 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1663.470 |  1663.470 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1663.472 |  1663.472 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1675.316 |  1675.316 |     0.000 |   1 | ad.doubleclick.net:443 ->  nil
+ 1675.344 |  1675.344 |     0.000 |   1 | ad.doubleclick.net:443 ->  nil
+ 1675.347 |  1675.347 |     0.000 |   1 | ad.doubleclick.net:443 ->  nil
+ 1693.843 |  1693.843 |     0.000 |   1 | public-api.wordpress.com:443 ->  nil
+ 1693.868 |  1693.868 |     0.000 |   1 | public-api.wordpress.com:443 ->  nil
+ 1693.871 |  1693.871 |     0.000 |   1 | public-api.wordpress.com:443 ->  nil
+ 1700.906 |  1700.906 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1700.915 |  1700.915 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1702.102 |  1702.102 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1702.112 |  1702.112 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1702.276 |  1702.276 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1702.280 |  1702.280 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1702.457 |  1702.457 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1706.985 |  1706.985 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1706.991 |  1706.991 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1707.313 |  1707.313 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1720.330 |  1720.330 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1720.339 |  1720.339 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1723.488 |  1723.488 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1723.494 |  1723.494 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1723.544 |  1723.544 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1723.546 |  1723.546 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1725.118 |  1725.118 |     0.000 |   1 | www.google-analytics.com:80 ->  nil
+ 1725.131 |  1725.131 |     0.000 |   1 | www.google-analytics.com:80 ->  nil
+ 1753.285 |  1753.285 |     0.000 |   1 | public-api.wordpress.com:443 ->  nil
+ 1753.315 |  1753.315 |     0.000 |   1 | public-api.wordpress.com:443 ->  nil
+ 1753.318 |  1753.318 |     0.000 |   1 | public-api.wordpress.com:443 ->  nil
+ 1762.332 |  1762.332 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1762.345 |  1762.345 |     0.000 |   1 | s3-us-west-2.amazonaws.com:443 ->  nil
+ 1770.391 |  1770.419 |     0.028 |   0 | 47642.global.siteimproveanalytics.io:80 ->  10.0.0.2:8000
+ 1770.413 |  1770.413 |     0.000 |   1 | 47642.global.siteimproveanalytics.io:80 ->  nil
+ 1782.031 |  1782.031 |     0.000 |   1 | www.google-analytics.com:80 ->  nil
+ 1782.048 |  1782.048 |     0.000 |   1 | www.google-analytics.com:80 ->  nil
+</resolves>
+
+<transactions>
+strt (ms) | end (ms)  | len (ms)  | url
+   95.826 |   299.295 |   203.469 | http://www.washington.edu/
+  184.643 |   368.690 |   184.047 | https://fonts.googleapis.com/css?family=Open+Sans%3A400italic%2C700italic%2C400%2C700&ver=3.6?088f75a
+  284.067 |   461.053 |   176.986 | https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/81/2019/10/10163522/HansRosling-portrait-377x160.jpg
+  289.714 |   466.154 |   176.440 | https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/81/2019/10/07154340/Campus_Climate_Survey-Web_Banner-377x160-377x160.gif
+  292.585 |   466.254 |   173.669 | https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/81/2018/10/08112549/web-20180907_AMC-portrait_0043-377x160-377x160.jpg
+  292.661 |   466.346 |   173.685 | https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/81/2017/09/07083752/Website-Fast-Facts-study-abroad.png
+  292.733 |   470.085 |   177.352 | https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/81/2017/09/07083755/Website-Fast-Facts-student-organizations.png
+  184.384 |   780.321 |   595.937 | http://www.washington.edu/static/home/wp-content/themes/uw-2014/style.css?088f75a
+  184.871 |   807.863 |   622.992 | http://www.washington.edu/static/home/wp-content/themes/boundless/style.css?088f75a
+  185.278 |   951.498 |   766.220 | http://www.washington.edu/static/home/wp-content/plugins/uw-analytics/analytics.js?088f75a
+  185.081 |  1048.031 |   862.950 | http://www.washington.edu/static/home/wp-content/themes/uw-2014/js/libraries/jquery.min.js?088f75a
+  185.450 |  1082.710 |   897.260 | http://www.washington.edu/static/home/wp-includes/js/underscore.min.js?088f75a
+  185.606 |  1107.286 |   921.680 | http://www.washington.edu/static/home/wp-includes/js/backbone.min.js?088f75a
+  186.289 |  1346.117 |  1159.828 | http://www.washington.edu/static/home/wp-content/themes/boundless/js/homepage.js?088f75a
+  299.610 |  1369.720 |  1070.110 | http://www.washington.edu/static/home/wp-content/themes/boundless/js/homepage-event-tracking.js?088f75a
+  186.145 |  1491.321 |  1305.176 | http://www.washington.edu/static/home/wp-content/themes/uw-2014/js/site.js?088f75a
+ 1580.934 |  1646.659 |    65.725 | http://www.washington.edu/home/wp-admin/admin-ajax.php?action=quicklinks
+ 1523.760 |  1701.062 |   177.302 | https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/81/2019/09/20121220/header-braintetris-3.jpg
+ 1523.986 |  1702.427 |   178.441 | https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/81/2019/09/20121334/mobile-braintetris1.jpg
+ 1524.321 |  1707.289 |   182.968 | https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/81/2019/09/27120616/header-totemb2.jpg
+ 1559.115 |  1708.983 |   149.868 | http://siteimproveanalytics.com/js/siteanalyze_47642.js
+ 1517.678 |  1713.900 |   196.222 | http://www.google-analytics.com/analytics.js
+ 1524.535 |  1720.436 |   195.901 | https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/81/2019/09/27165325/mobile-totem2.jpg
+ 1524.832 |  1723.606 |   198.774 | https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/81/2019/10/08151952/jordan-n-header-b2.jpg
+ 1525.045 |  1723.623 |   198.578 | https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/81/2019/10/08152019/mobile-jordan-n-b3.jpg
+ 1518.345 |  1730.254 |   211.909 | https://ad.doubleclick.net/ddm/activity/src=4532109;type=ip156748;cat=ip1560;ord=7425883628893.644?
+ 1525.372 |  1762.456 |   237.084 | https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/81/2019/10/10120635/header-burkebonesB2.jpg
+ 1525.552 |  1769.942 |   244.390 | https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/81/2019/10/10120600/mobile-burke-bones3.jpg
+ 1725.106 |  1778.538 |    53.432 | http://www.google-analytics.com/plugins/ua/linkid.js
+ 1601.319 |  1804.945 |   203.626 | https://public-api.wordpress.com/rest/v1/sites/uwemergency.wordpress.com/posts/?c=%3F&test=true&number=1&type=post&status=publish&dataType=json
+ 1782.015 |  1831.892 |    49.877 | http://www.google-analytics.com/r/collect?v=1&_v=j79&a=580282153&t=pageview&_s=1&dl=http%3A%2F%2Fwww.washington.edu%2F&ul=en-us&de=UTF-8&dt=UW%20Homepage&sd=16-bit&sr=1024x768&vp=785x600&je=0&fl=11.2%20r202&_u=KGBAAEQi~&jid=1004686377&gjid=570918819&cid=843851516.1571039645&tid=UA-15747328-1&_gid=1847832449.1571039645&_r=1&z=942945735
+ 1770.376 |  1845.379 |    75.003 | http://47642.global.siteimproveanalytics.io/image.aspx?url=http%3A%2F%2Fwww.washington.edu%2F&title=UW%20Homepage&res=1024x768&accountid=47642&rt=1734&prev=1571039665513&luid=0d13a2d6-f020-37b0-685b-0841b5f807bf&rnd=64449
+</transactions>
+
+<responses>
+status       | mime_type       | charset | url -> redirect_url
+          OK |       text/html |         | http://www.washington.edu/ -> nil
+             |                 |         | https://fonts.googleapis.com/css?family=Open+Sans%3A400italic%2C700italic%2C400%2C700&ver=3.6?088f75a -> nil
+             |                 |         | https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/81/2019/10/10163522/HansRosling-portrait-377x160.jpg -> nil
+             |                 |         | https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/81/2019/10/07154340/Campus_Climate_Survey-Web_Banner-377x160-377x160.gif -> nil
+             |                 |         | https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/81/2018/10/08112549/web-20180907_AMC-portrait_0043-377x160-377x160.jpg -> nil
+             |                 |         | https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/81/2017/09/07083752/Website-Fast-Facts-study-abroad.png -> nil
+             |                 |         | https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/81/2017/09/07083755/Website-Fast-Facts-student-organizations.png -> nil
+          OK |       text/html |         | http://www.washington.edu/static/home/wp-content/themes/uw-2014/style.css?088f75a -> nil
+          OK |       text/html |         | http://www.washington.edu/static/home/wp-content/themes/boundless/style.css?088f75a -> nil
+          OK |       text/html |         | http://www.washington.edu/static/home/wp-content/plugins/uw-analytics/analytics.js?088f75a -> nil
+          OK |       text/html |         | http://www.washington.edu/static/home/wp-content/themes/uw-2014/js/libraries/jquery.min.js?088f75a -> nil
+          OK |       text/html |         | http://www.washington.edu/static/home/wp-includes/js/underscore.min.js?088f75a -> nil
+          OK |       text/html |         | http://www.washington.edu/static/home/wp-includes/js/backbone.min.js?088f75a -> nil
+          OK |       text/html |         | http://www.washington.edu/static/home/wp-content/themes/boundless/js/homepage.js?088f75a -> nil
+          OK |       text/html |         | http://www.washington.edu/static/home/wp-content/themes/boundless/js/homepage-event-tracking.js?088f75a -> nil
+          OK |       text/html |         | http://www.washington.edu/static/home/wp-content/themes/uw-2014/js/site.js?088f75a -> nil
+          OK |       text/html |         | http://www.washington.edu/home/wp-admin/admin-ajax.php?action=quicklinks -> nil
+             |                 |         | https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/81/2019/09/20121220/header-braintetris-3.jpg -> nil
+             |                 |         | https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/81/2019/09/20121334/mobile-braintetris1.jpg -> nil
+             |                 |         | https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/81/2019/09/27120616/header-totemb2.jpg -> nil
+          OK |       text/html |         | http://siteimproveanalytics.com/js/siteanalyze_47642.js -> nil
+          OK |       text/html |         | http://www.google-analytics.com/analytics.js -> nil
+             |                 |         | https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/81/2019/09/27165325/mobile-totem2.jpg -> nil
+             |                 |         | https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/81/2019/10/08151952/jordan-n-header-b2.jpg -> 
+             |                 |         | https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/81/2019/10/08152019/mobile-jordan-n-b3.jpg -> nil
+             |                 |         | https://ad.doubleclick.net/ddm/activity/src=4532109;type=ip156748;cat=ip1560;ord=7425883628893.644? -> nil
+             |                 |         | https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/81/2019/10/10120635/header-burkebonesB2.jpg -> nil
+             |                 |         | https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/81/2019/10/10120600/mobile-burke-bones3.jpg -> nil
+          OK |       text/html |         | http://www.google-analytics.com/plugins/ua/linkid.js -> nil
+             |                 |         | https://public-api.wordpress.com/rest/v1/sites/uwemergency.wordpress.com/posts/?c=%3F&test=true&number=1&type=post&status=publish&dataType=json -> nil
+file not found |       text/html |         | http://www.google-analytics.com/r/collect?v=1&_v=j79&a=580282153&t=pageview&_s=1&dl=http%3A%2F%2Fwww.washington.edu%2F&ul=en-us&de=UTF-8&dt=UW%20Homepage&sd=16-bit&sr=1024x768&vp=785x600&je=0&fl=11.2%20r202&_u=KGBAAEQi~&jid=1004686377&gjid=570918819&cid=843851516.1571039645&tid=UA-15747328-1&_gid=1847832449.1571039645&_r=1&z=942945735 -> nil
+file not found |       text/html |         | http://47642.global.siteimproveanalytics.io/image.aspx?url=http%3A%2F%2Fwww.washington.edu%2F&title=UW%20Homepage&res=1024x768&accountid=47642&rt=1734&prev=1571039665513&luid=0d13a2d6-f020-37b0-685b-0841b5f807bf&rnd=64449 -> nil
+</responses>
+
+<queries>
+Collections of histograms for DNS.
+Histogram: DNS.TotalTime recorded 91 samples, average = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (91 = 100.0%)
+1  ... 
+
+
+Collections of histograms for Net.
+Histogram: Net.Compress.NoProxy.ShouldHaveBeenCompressed recorded 16 samples, average = 42880.6 (flags = 0x1)
+0       ------------------------------------------------------------------------O (3 = 18.8%)
+500     ... 
+1480    ------------------------O                                                 (1 = 6.2%) {18.8%}
+1599    ... 
+2547    ------------------------O                                                 (1 = 6.2%) {25.0%}
+2752    ------------------------O                                                 (1 = 6.2%) {31.2%}
+2974    ... 
+12016   ------------------------O                                                 (1 = 6.2%) {37.5%}
+12985   ... 
+16387   ------------------------O                                                 (1 = 6.2%) {43.8%}
+17709   ... 
+20681   ------------------------O                                                 (1 = 6.2%) {50.0%}
+22349   ------------------------O                                                 (1 = 6.2%) {56.2%}
+24152   ------------------------O                                                 (1 = 6.2%) {62.5%}
+26100   ... 
+41569   ------------------------O                                                 (1 = 6.2%) {68.8%}
+44922   ... 
+56692   ------------------------O                                                 (1 = 6.2%) {75.0%}
+61265   ... 
+90293   ------------------------O                                                 (1 = 6.2%) {81.2%}
+97576   ... 
+167943  ------------------------O                                                 (1 = 6.2%) {87.5%}
+181489  O                                                                         (0 = 0.0%) {93.8%}
+196128  ------------------------O                                                 (1 = 6.2%) {93.8%}
+211947  ... 
+
+Histogram: Net.ConnectionTypeCount3 recorded 107 samples, average = 1.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (91 = 85.0%)
+1  ... 
+7  -------------O                                                            (16 = 15.0%) {85.0%}
+8  ... 
+
+Histogram: Net.ConnectionUsedSSLVersionFallback recorded 48 samples, average = 1.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (16 = 33.3%)
+1  ------------------------------------------------------------------------O (16 = 33.3%) {33.3%}
+2  ------------------------------------------------------------------------O (16 = 33.3%) {66.7%}
+3  ... 
+
+Histogram: Net.DNS_Resolution_And_TCP_Connection_Latency2 recorded 91 samples, average = 36.3 (flags = 0x1)
+0    ... 
+20   ----O                                                                     (1 = 1.1%) {0.0%}
+23   --------------------------------------------------------------------O     (17 = 18.7%) {1.1%}
+26   ------------------------------------------------------------------------O (18 = 19.8%) {19.8%}
+29   ------------------------------------O                                     (12 = 13.2%) {39.6%}
+33   ---------------------------------------------O                            (15 = 16.5%) {52.7%}
+37   -------------------O                                                      (8 = 8.8%) {69.2%}
+42   ----------O                                                               (4 = 4.4%) {78.0%}
+48   ----------------------O                                                   (9 = 9.9%) {82.4%}
+54   O                                                                         (0 = 0.0%) {92.3%}
+61   ----------O                                                               (4 = 4.4%) {92.3%}
+69   O                                                                         (0 = 0.0%) {96.7%}
+78   --O                                                                       (1 = 1.1%) {96.7%}
+88   --O                                                                       (1 = 1.1%) {97.8%}
+100  ... 
+128  --O                                                                       (1 = 1.1%) {98.9%}
+145  ... 
+
+Histogram: Net.HadConnectionType3 recorded 2 samples, average = 3.5 (flags = 0x1)
+0  ------------------------------------------------------------------------O (1 = 50.0%)
+1  ... 
+7  ------------------------------------------------------------------------O (1 = 50.0%) {50.0%}
+8  ... 
+
+Histogram: Net.HttpConnectionLatency recorded 16 samples, average = 181.1 (flags = 0x1)
+0    ... 
+23   -----------------O                                                        (1 = 6.2%) {0.0%}
+26   -----------------O                                                        (1 = 6.2%) {6.2%}
+29   ... 
+37   ----------O                                                               (1 = 6.2%) {12.5%}
+42   O                                                                         (0 = 0.0%) {18.8%}
+48   ------------------------------------------------------------------------O (7 = 43.8%) {18.8%}
+54   O                                                                         (0 = 0.0%) {62.5%}
+61   ----------O                                                               (1 = 6.2%) {62.5%}
+69   O                                                                         (0 = 0.0%) {68.8%}
+78   ----------O                                                               (1 = 6.2%) {68.8%}
+88   ... 
+145  ----------O                                                               (1 = 6.2%) {75.0%}
+164  ... 
+648  ---------------------O                                                    (2 = 12.5%) {81.2%}
+734  ----------O                                                               (1 = 6.2%) {93.8%}
+831  ... 
+
+Histogram: Net.HttpJob.TotalTime recorded 32 samples, average = 376.9 (flags = 0x1)
+0     ... 
+48    ----------------O                                                         (2 = 6.2%) {0.0%}
+57    --------O                                                                 (1 = 3.1%) {6.2%}
+68    --------O                                                                 (1 = 3.1%) {9.4%}
+81    ... 
+135   --------O                                                                 (1 = 3.1%) {12.5%}
+160   ------------------------------------------------------------------------O (9 = 28.1%) {15.6%}
+190   --------------------------------------------------------O                 (7 = 21.9%) {43.8%}
+226   ----------------O                                                         (2 = 6.2%) {65.6%}
+268   ... 
+533   ----------------O                                                         (2 = 6.2%) {71.9%}
+633   O                                                                         (0 = 0.0%) {78.1%}
+752   ----------------O                                                         (2 = 6.2%) {78.1%}
+894   ----------------O                                                         (2 = 6.2%) {84.4%}
+1062  ----------------O                                                         (2 = 6.2%) {90.6%}
+1262  --------O                                                                 (1 = 3.1%) {96.9%}
+1500  ... 
+
+Histogram: Net.HttpJob.TotalTimeCancel recorded 16 samples, average = 192.7 (flags = 0x1)
+0    ... 
+160  ------------------------------------------------------------------------O (9 = 56.2%) {0.0%}
+190  ----------------------------------------O                                 (5 = 31.2%) {56.2%}
+226  ----------------O                                                         (2 = 12.5%) {87.5%}
+268  ... 
+
+Histogram: Net.HttpJob.TotalTimeNotCached recorded 16 samples, average = 561.2 (flags = 0x1)
+0     ... 
+48    ------------------------------------------------------------------------O (2 = 12.5%) {0.0%}
+57    ------------------------------------O                                     (1 = 6.2%) {12.5%}
+68    ------------------------------------O                                     (1 = 6.2%) {18.8%}
+81    ... 
+135   ------------------------------------O                                     (1 = 6.2%) {25.0%}
+160   O                                                                         (0 = 0.0%) {31.2%}
+190   ------------------------------------------------------------------------O (2 = 12.5%) {31.2%}
+226   ... 
+533   ------------------------------------------------------------------------O (2 = 12.5%) {43.8%}
+633   O                                                                         (0 = 0.0%) {56.2%}
+752   ------------------------------------------------------------------------O (2 = 12.5%) {56.2%}
+894   ------------------------------------------------------------------------O (2 = 12.5%) {68.8%}
+1062  ------------------------------------------------------------------------O (2 = 12.5%) {81.2%}
+1262  ------------------------------------O                                     (1 = 6.2%) {93.8%}
+1500  ... 
+
+Histogram: Net.HttpJob.TotalTimeSuccess recorded 16 samples, average = 561.2 (flags = 0x1)
+0     ... 
+48    ------------------------------------------------------------------------O (2 = 12.5%) {0.0%}
+57    ------------------------------------O                                     (1 = 6.2%) {12.5%}
+68    ------------------------------------O                                     (1 = 6.2%) {18.8%}
+81    ... 
+135   ------------------------------------O                                     (1 = 6.2%) {25.0%}
+160   O                                                                         (0 = 0.0%) {31.2%}
+190   ------------------------------------------------------------------------O (2 = 12.5%) {31.2%}
+226   ... 
+533   ------------------------------------------------------------------------O (2 = 12.5%) {43.8%}
+633   O                                                                         (0 = 0.0%) {56.2%}
+752   ------------------------------------------------------------------------O (2 = 12.5%) {56.2%}
+894   ------------------------------------------------------------------------O (2 = 12.5%) {68.8%}
+1062  ------------------------------------------------------------------------O (2 = 12.5%) {81.2%}
+1262  ------------------------------------O                                     (1 = 6.2%) {93.8%}
+1500  ... 
+
+Histogram: Net.HttpResponseCode recorded 16 samples, average = 225.5 (flags = 0x1)
+0    ... 
+200  ------------------------------------------------------------------------O (14 = 87.5%) {0.0%}
+201  ... 
+404  ------------------------------------------------------------------------O (2 = 12.5%) {87.5%}
+405  ... 
+
+Histogram: Net.HttpSocketType recorded 16 samples, average = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (16 = 100.0%)
+1  ... 
+
+Histogram: Net.HttpTimeToFirstByte recorded 32 samples, average = 313.2 (flags = 0x1)
+0     ... 
+41    ------O                                                                   (1 = 3.1%) {0.0%}
+50    ------O                                                                   (1 = 3.1%) {3.1%}
+61    -----------O                                                              (2 = 6.2%) {6.2%}
+75    ------O                                                                   (1 = 3.1%) {12.5%}
+92    -----------O                                                              (2 = 6.2%) {15.6%}
+113   ------O                                                                   (1 = 3.1%) {21.9%}
+139   O                                                                         (0 = 0.0%) {25.0%}
+171   ------------------------------------------------------------------------O (13 = 40.6%) {25.0%}
+210   -----------------O                                                        (3 = 9.4%) {65.6%}
+258   ... 
+389   ------O                                                                   (1 = 3.1%) {75.0%}
+477   ------O                                                                   (1 = 3.1%) {78.1%}
+585   O                                                                         (0 = 0.0%) {81.2%}
+718   ----------------------O                                                   (4 = 12.5%) {81.2%}
+881   ------O                                                                   (1 = 3.1%) {93.8%}
+1081  ------O                                                                   (1 = 3.1%) {96.9%}
+1326  ... 
+
+Histogram: Net.NumDuplicateCookiesInDb recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.PreconnectUtilization2 recorded 91 samples, average = 2.0 (flags = 0x1)
+0  ... 
+2  ------------------------------------------------------------------------O (91 = 100.0%) {0.0%}
+3  ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_ReusedSocket_HTTPProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_ReusedSocket_SOCK recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_ReusedSocket_SSL2 recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_ReusedSocket_SSLForProxies recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_ReusedSocket_SSLforHTTPSProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_ReusedSocket_TCP recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_ReusedSocket_TCPforHTTPProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_ReusedSocket_TCPforHTTPSProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_ReusedSocket_TCPforSOCKS recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_UnusedSocket_HTTPProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_UnusedSocket_SOCK recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_UnusedSocket_SSL2 recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_UnusedSocket_SSLForProxies recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_UnusedSocket_SSLforHTTPSProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_UnusedSocket_TCP recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_UnusedSocket_TCPforHTTPProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_UnusedSocket_TCPforHTTPSProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_UnusedSocket_TCPforSOCKS recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketInitErrorCodes_HTTPProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketInitErrorCodes_SOCK recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketInitErrorCodes_SSL2 recorded 48 samples, average = 107.0 (flags = 0x1)
+0    ... 
+107  ------------------------------------------------------------------------O (48 = 100.0%) {0.0%}
+108  ... 
+
+Histogram: Net.SocketInitErrorCodes_SSLForProxies recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketInitErrorCodes_SSLforHTTPSProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketInitErrorCodes_TCP recorded 91 samples, average = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (91 = 100.0%)
+1  ... 
+
+Histogram: Net.SocketInitErrorCodes_TCPforHTTPProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketInitErrorCodes_TCPforHTTPSProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketInitErrorCodes_TCPforSOCKS recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketRequestTime_HTTPProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketRequestTime_SOCK recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketRequestTime_SSL2 recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketRequestTime_SSLForProxies recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketRequestTime_SSLforHTTPSProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketRequestTime_TCP recorded 91 samples, average = 58.1 (flags = 0x1)
+0    ... 
+20   ----O                                                                     (1 = 1.1%) {0.0%}
+23   ----------------------------------------------------------------O         (16 = 17.6%) {1.1%}
+26   ------------------------------------------------------------------------O (18 = 19.8%) {18.7%}
+29   ------------------------------------------O                               (14 = 15.4%) {38.5%}
+33   ------------------------------------------------O                         (16 = 17.6%) {53.8%}
+37   ------------O                                                             (5 = 5.5%) {71.4%}
+42   ----------O                                                               (4 = 4.4%) {76.9%}
+48   ----------------------O                                                   (9 = 9.9%) {81.3%}
+54   O                                                                         (0 = 0.0%) {91.2%}
+61   -------O                                                                  (3 = 3.3%) {91.2%}
+69   O                                                                         (0 = 0.0%) {94.5%}
+78   --O                                                                       (1 = 1.1%) {94.5%}
+88   ... 
+145  --O                                                                       (1 = 1.1%) {95.6%}
+164  ... 
+648  -----O                                                                    (2 = 2.2%) {96.7%}
+734  --O                                                                       (1 = 1.1%) {98.9%}
+831  ... 
+
+Histogram: Net.SocketRequestTime_TCPforHTTPProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketRequestTime_TCPforHTTPSProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketRequestTime_TCPforSOCKS recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketType_HTTPProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketType_SOCK recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketType_SSL2 recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketType_SSLForProxies recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketType_SSLforHTTPSProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketType_TCP recorded 91 samples, average = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (91 = 100.0%)
+1  ... 
+
+Histogram: Net.SocketType_TCPforHTTPProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketType_TCPforHTTPSProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketType_TCPforSOCKS recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.TCP_Connection_Latency recorded 91 samples, average = 36.3 (flags = 0x1)
+0    ... 
+20   ----O                                                                     (1 = 1.1%) {0.0%}
+23   --------------------------------------------------------------------O     (17 = 18.7%) {1.1%}
+26   ------------------------------------------------------------------------O (18 = 19.8%) {19.8%}
+29   ------------------------------------O                                     (12 = 13.2%) {39.6%}
+33   ---------------------------------------------O                            (15 = 16.5%) {52.7%}
+37   -------------------O                                                      (8 = 8.8%) {69.2%}
+42   ----------O                                                               (4 = 4.4%) {78.0%}
+48   ----------------------O                                                   (9 = 9.9%) {82.4%}
+54   O                                                                         (0 = 0.0%) {92.3%}
+61   ----------O                                                               (4 = 4.4%) {92.3%}
+69   O                                                                         (0 = 0.0%) {96.7%}
+78   --O                                                                       (1 = 1.1%) {96.7%}
+88   --O                                                                       (1 = 1.1%) {97.8%}
+100  ... 
+128  --O                                                                       (1 = 1.1%) {98.9%}
+145  ... 
+
+Histogram: Net.TCP_Connection_Latency_IPv4_No_Race recorded 91 samples, average = 36.3 (flags = 0x1)
+0    ... 
+20   ----O                                                                     (1 = 1.1%) {0.0%}
+23   --------------------------------------------------------------------O     (17 = 18.7%) {1.1%}
+26   ------------------------------------------------------------------------O (18 = 19.8%) {19.8%}
+29   ------------------------------------O                                     (12 = 13.2%) {39.6%}
+33   ---------------------------------------------O                            (15 = 16.5%) {52.7%}
+37   -------------------O                                                      (8 = 8.8%) {69.2%}
+42   ----------O                                                               (4 = 4.4%) {78.0%}
+48   ----------------------O                                                   (9 = 9.9%) {82.4%}
+54   O                                                                         (0 = 0.0%) {92.3%}
+61   ----------O                                                               (4 = 4.4%) {92.3%}
+69   O                                                                         (0 = 0.0%) {96.7%}
+78   --O                                                                       (1 = 1.1%) {96.7%}
+88   --O                                                                       (1 = 1.1%) {97.8%}
+100  ... 
+128  --O                                                                       (1 = 1.1%) {98.9%}
+145  ... 
+
+Histogram: Net.Transaction_Latency_Total recorded 16 samples, average = 561.0 (flags = 0x1)
+0     ... 
+48    ------------------------------------------------O                         (2 = 12.5%) {0.0%}
+54    O                                                                         (0 = 0.0%) {12.5%}
+61    ------------------------O                                                 (1 = 6.2%) {12.5%}
+69    ------------------------O                                                 (1 = 6.2%) {18.8%}
+78    ... 
+145   ------------------------O                                                 (1 = 6.2%) {25.0%}
+164   O                                                                         (0 = 0.0%) {31.2%}
+186   ------------------------------------------------O                         (2 = 12.5%) {31.2%}
+211   ... 
+572   ------------------------------------------------O                         (2 = 12.5%) {43.8%}
+648   O                                                                         (0 = 0.0%) {56.2%}
+734   ------------------------O                                                 (1 = 6.2%) {56.2%}
+831   ------------------------------------------------------------------------O (3 = 18.8%) {62.5%}
+941   O                                                                         (0 = 0.0%) {81.2%}
+1065  ------------------------------------------------O                         (2 = 12.5%) {81.2%}
+1206  ------------------------O                                                 (1 = 6.2%) {93.8%}
+1365  ... 
+
+Histogram: Net.Transaction_Latency_Total_New_Connection recorded 16 samples, average = 561.0 (flags = 0x1)
+0     ... 
+48    ------------------------------------------------O                         (2 = 12.5%) {0.0%}
+54    O                                                                         (0 = 0.0%) {12.5%}
+61    ------------------------O                                                 (1 = 6.2%) {12.5%}
+69    ------------------------O                                                 (1 = 6.2%) {18.8%}
+78    ... 
+145   ------------------------O                                                 (1 = 6.2%) {25.0%}
+164   O                                                                         (0 = 0.0%) {31.2%}
+186   ------------------------------------------------O                         (2 = 12.5%) {31.2%}
+211   ... 
+572   ------------------------------------------------O                         (2 = 12.5%) {43.8%}
+648   O                                                                         (0 = 0.0%) {56.2%}
+734   ------------------------O                                                 (1 = 6.2%) {56.2%}
+831   ------------------------------------------------------------------------O (3 = 18.8%) {62.5%}
+941   O                                                                         (0 = 0.0%) {81.2%}
+1065  ------------------------------------------------O                         (2 = 12.5%) {81.2%}
+1206  ------------------------O                                                 (1 = 6.2%) {93.8%}
+1365  ... 
+
+Histogram: Net.Transaction_Latency_b recorded 16 samples, average = 379.4 (flags = 0x1)
+0    ... 
+23   ------------------------------------------------------------------------O (3 = 18.8%) {0.0%}
+26   ------------------------O                                                 (1 = 6.2%) {18.8%}
+29   ... 
+69   --------------O                                                           (1 = 6.2%) {25.0%}
+78   ... 
+128  --------------O                                                           (1 = 6.2%) {31.2%}
+145  --------------O                                                           (1 = 6.2%) {37.5%}
+164  ... 
+271  --------------O                                                           (1 = 6.2%) {43.8%}
+307  ... 
+446  --------------O                                                           (1 = 6.2%) {50.0%}
+505  -----------------------------O                                            (2 = 12.5%) {56.2%}
+572  --------------O                                                           (1 = 6.2%) {68.8%}
+648  --------------O                                                           (1 = 6.2%) {75.0%}
+734  -----------------------------O                                            (2 = 12.5%) {81.2%}
+831  --------------O                                                           (1 = 6.2%) {93.8%}
+941  ... 
+
+
+</queries>
