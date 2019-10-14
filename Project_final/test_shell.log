@@ -1,0 +1,12 @@
+[14437:14442:2791294073:WARNING:proxy_service.cc(889)] PAC support disabled because there is no system implementation
+[14437:14437:2791550336:INFO:CONSOLE(0)] "Unrecognized Content-Security-Policy directive 'upgrade-insecure-requests'.
+," source: (0)
+[14437:14437:2791789801:INFO:CONSOLE(0)] "Uncaught SyntaxError: Unexpected token )," source: https://www.latimes.com/(598)
+[14437:14437:2791791670:INFO:CONSOLE(0)] "Uncaught ReferenceError: Set is not defined," source: https://www.latimes.com/(619)
+[14437:14437:2791795292:INFO:CONSOLE(0)] "Uncaught SyntaxError: Unexpected identifier," source: https://www.latimes.com/(742)
+[14437:14437:2791885254:INFO:CONSOLE(0)] "Uncaught TypeError: Cannot call method 'define' of undefined," source: https://ca-times.brightspotcdn.com/resource/00000166-300c-ddc8-a177-f44f8a310000/styleguide/All.min.93f4981b55d7669fef6abf9ddf88919d.gz.js(18)
+[14437:14437:2792378133:INFO:CONSOLE(0)] "Uncaught ReferenceError: Set is not defined," source: https://ads.rubiconproject.com/prebid/20520_latimes.js(6)
+[14437:14437:2792421752:INFO:CONSOLE(0)] "Unrecognized Content-Security-Policy directive 'upgrade-insecure-requests'.
+," source: (0)
+[14437:14437:2792423796:INFO:CONSOLE(0)] "Unrecognized Content-Security-Policy directive 'upgrade-insecure-requests'.
+," source: (0)
