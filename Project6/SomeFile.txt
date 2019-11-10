@@ -1,0 +1,744 @@
+Listening on [10.0.0.6] (family 0, port 1723)
+Connecting to 10.0.0.6:1723 from 10.0.0.1 (e1) with TCP
+nc: connect to 10.0.0.6 port 1723 (tcp) timed out: Operation now in progress
+Connecting to 10.0.0.6:1723 from 10.0.0.2 (e2) with TCP
+nc: connect to 10.0.0.6 port 1723 (tcp) timed out: Operation now in progress
+Connecting to 10.0.0.6:1723 from 10.0.0.3 (e3) with TCP
+nc: connect to 10.0.0.6 port 1723 (tcp) timed out: Operation now in progress
+Connecting to 10.0.0.6:1723 from 10.0.0.4 (mobile1) with TCP
+nc: connect to 10.0.0.6 port 1723 (tcp) timed out: Operation now in progress
+Connecting to 10.0.0.6:1723 from 10.0.0.5 (server1) with TCP
+nc: connect to 10.0.0.6 port 1723 (tcp) timed out: Operation now in progress
+Connecting to 10.0.0.6:1723 from 10.0.0.7 (server3) with TCP
+nc: connect to 10.0.0.6 port 1723 (tcp) timed out: Operation now in progress
+Connecting to 10.0.0.6:1723 from 10.0.0.8 (w1) with TCP
+nc: connect to 10.0.0.6 port 1723 (tcp) timed out: Operation now in progress
+Connecting to 10.0.0.6:1723 from 10.0.0.9 (w2) with TCP
+nc: connect to 10.0.0.6 port 1723 (tcp) timed out: Operation now in progress
+Connecting to 10.0.0.6:1723 from 10.0.0.10 (w3) with TCP
+nc: connect to 10.0.0.6 port 1723 (tcp) timed out: Operation now in progress
+Listening on [10.0.0.6] (family 0, port 1722)
+Connecting to 10.0.0.6:1722 from 10.0.0.1 (e1) with TCP
+Connection to 10.0.0.6 1722 port [tcp/*] succeeded!
+Connecting to 10.0.0.6:1722 from 10.0.0.2 (e2) with TCP
+Connection to 10.0.0.6 1722 port [tcp/*] succeeded!
+Connecting to 10.0.0.6:1722 from 10.0.0.3 (e3) with TCP
+Connection to 10.0.0.6 1722 port [tcp/*] succeeded!
+Connecting to 10.0.0.6:1722 from 10.0.0.4 (mobile1) with TCP
+Connection to 10.0.0.6 1722 port [tcp/*] succeeded!
+Connecting to 10.0.0.6:1722 from 10.0.0.5 (server1) with TCP
+Connection to 10.0.0.6 1722 port [tcp/*] succeeded!
+Connecting to 10.0.0.6:1722 from 10.0.0.7 (server3) with TCP
+Connection to 10.0.0.6 1722 port [tcp/*] succeeded!
+Connecting to 10.0.0.6:1722 from 10.0.0.8 (w1) with TCP
+Connection to 10.0.0.6 1722 port [tcp/*] succeeded!
+Connecting to 10.0.0.6:1722 from 10.0.0.9 (w2) with TCP
+Connection to 10.0.0.6 1722 port [tcp/*] succeeded!
+Connecting to 10.0.0.6:1722 from 10.0.0.10 (w3) with TCP
+Connection to 10.0.0.6 1722 port [tcp/*] succeeded!
+*** Iperf: testing UDP bandwidth between server1 and e1 
+could not parse iperf output: ------------------------------------------------------------
+Server listening on UDP port 22
+Receiving 1470 byte datagrams
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+*** Results: ['1M', '', '1000 Kbits/sec']
+*** Iperf: testing UDP bandwidth between server1 and e2 
+could not parse iperf output: ------------------------------------------------------------
+Server listening on UDP port 22
+Receiving 1470 byte datagrams
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+*** Results: ['1M', '', '1000 Kbits/sec']
+*** Iperf: testing UDP bandwidth between server1 and e3 
+could not parse iperf output: ------------------------------------------------------------
+Server listening on UDP port 22
+Receiving 1470 byte datagrams
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+*** Results: ['1M', '', '1000 Kbits/sec']
+*** Iperf: testing UDP bandwidth between server1 and e2 
+*** Results: ['1M', '1.00 Mbits/sec', '1.00 Mbits/sec']
+*** Iperf: testing UDP bandwidth between server1 and e1 
+*** Results: ['1M', '1.00 Mbits/sec', '1.00 Mbits/sec']
+*** Iperf: testing UDP bandwidth between server1 and e3 
+*** Results: ['1M', '1000 Kbits/sec', '1000 Kbits/sec']
+*** Iperf: testing UDP bandwidth between e1 and server1 
+could not parse iperf output: ------------------------------------------------------------
+Server listening on UDP port 123
+Receiving 1470 byte datagrams
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+*** Results: ['1M', '', '1000 Kbits/sec']
+*** Iperf: testing UDP bandwidth between e1 and server2 
+could not parse iperf output: ------------------------------------------------------------
+Server listening on UDP port 123
+Receiving 1470 byte datagrams
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+*** Results: ['1M', '', '1000 Kbits/sec']
+*** Iperf: testing UDP bandwidth between e1 and server1 
+could not parse iperf output: ------------------------------------------------------------
+Server listening on UDP port 53
+Receiving 1470 byte datagrams
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+*** Results: ['1M', '', '1000 Kbits/sec']
+*** Iperf: testing UDP bandwidth between e1 and server2 
+could not parse iperf output: ------------------------------------------------------------
+Server listening on UDP port 53
+Receiving 1470 byte datagrams
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+*** Results: ['1M', '', '1000 Kbits/sec']
+*** Iperf: testing UDP bandwidth between e1 and server1 
+*** Results: ['1M', '1.00 Mbits/sec', '1.00 Mbits/sec']
+*** Iperf: testing UDP bandwidth between e1 and server2 
+*** Results: ['1M', '1.00 Mbits/sec', '1.00 Mbits/sec']
+*** Iperf: testing UDP bandwidth between e1 and server1 
+*** Results: ['1M', '1000 Kbits/sec', '1000 Kbits/sec']
+*** Iperf: testing UDP bandwidth between e1 and server2 
+*** Results: ['1M', '1.00 Mbits/sec', '1.00 Mbits/sec']
+*** Iperf: testing UDP bandwidth between e1 and server3 
+*** Results: ['1M', '1.00 Mbits/sec', '1.00 Mbits/sec']
+*** Iperf: testing UDP bandwidth between e1 and server3 
+*** Results: ['1M', '1000 Kbits/sec', '1000 Kbits/sec']
+Listening on [10.0.0.3] (family 0, port 9950)
+Connecting to 10.0.0.3:9950 from 10.0.0.1 (e1) with TCP
+nc: connect to 10.0.0.3 port 9950 (tcp) timed out: Operation now in progress
+Connecting to 10.0.0.3:9950 from 10.0.0.2 (e2) with TCP
+Connection to 10.0.0.3 9950 port [tcp/*] succeeded!
+Connecting to 10.0.0.3:9950 from 10.0.0.4 (mobile1) with TCP
+nc: connect to 10.0.0.3 port 9950 (tcp) timed out: Operation now in progress
+Connecting to 10.0.0.3:9950 from 10.0.0.5 (server1) with TCP
+Connection to 10.0.0.3 9950 port [tcp/*] succeeded!
+Connecting to 10.0.0.3:9950 from 10.0.0.6 (server2) with TCP
+Connection to 10.0.0.3 9950 port [tcp/*] succeeded!
+Connecting to 10.0.0.3:9950 from 10.0.0.7 (server3) with TCP
+Connection to 10.0.0.3 9950 port [tcp/*] succeeded!
+Connecting to 10.0.0.3:9950 from 10.0.0.8 (w1) with TCP
+Connection to 10.0.0.3 9950 port [tcp/*] succeeded!
+Connecting to 10.0.0.3:9950 from 10.0.0.9 (w2) with TCP
+Connection to 10.0.0.3 9950 port [tcp/*] succeeded!
+Connecting to 10.0.0.3:9950 from 10.0.0.10 (w3) with TCP
+Connection to 10.0.0.3 9950 port [tcp/*] succeeded!
+Connection from [10.0.0.2] port 9950 [tcp/*] accepted (family 2, sport 57471)
+Connection closed, listening again.
+Connection from [10.0.0.5] port 9950 [tcp/*] accepted (family 2, sport 43172)
+Connection closed, listening again.
+Connection from [10.0.0.6] port 9950 [tcp/*] accepted (family 2, sport 59107)
+Connection closed, listening again.
+Connection from [10.0.0.7] port 9950 [tcp/*] accepted (family 2, sport 50414)
+Connection closed, listening again.
+Connection from [10.0.0.8] port 9950 [tcp/*] accepted (family 2, sport 56514)
+Connection closed, listening again.
+Connection from [10.0.0.9] port 9950 [tcp/*] accepted (family 2, sport 53854)
+Connection closed, listening again.
+Connection from [10.0.0.10] port 9950 [tcp/*] accepted (family 2, sport 35618)
+Connection closed, listening again.
+Listening on [10.0.0.3] (family 0, port 9951)
+Connecting to 10.0.0.3:9951 from 10.0.0.1 (e1) with TCP
+nc: connect to 10.0.0.3 port 9951 (tcp) timed out: Operation now in progress
+Connecting to 10.0.0.3:9951 from 10.0.0.2 (e2) with TCP
+Connection to 10.0.0.3 9951 port [tcp/*] succeeded!
+Connecting to 10.0.0.3:9951 from 10.0.0.4 (mobile1) with TCP
+nc: connect to 10.0.0.3 port 9951 (tcp) timed out: Operation now in progress
+Connecting to 10.0.0.3:9951 from 10.0.0.5 (server1) with TCP
+Connection to 10.0.0.3 9951 port [tcp/*] succeeded!
+Connecting to 10.0.0.3:9951 from 10.0.0.6 (server2) with TCP
+Connection to 10.0.0.3 9951 port [tcp/*] succeeded!
+Connecting to 10.0.0.3:9951 from 10.0.0.7 (server3) with TCP
+Connection to 10.0.0.3 9951 port [tcp/*] succeeded!
+Connecting to 10.0.0.3:9951 from 10.0.0.8 (w1) with TCP
+Connection to 10.0.0.3 9951 port [tcp/*] succeeded!
+Connecting to 10.0.0.3:9951 from 10.0.0.9 (w2) with TCP
+Connection to 10.0.0.3 9951 port [tcp/*] succeeded!
+Connecting to 10.0.0.3:9951 from 10.0.0.10 (w3) with TCP
+Connection to 10.0.0.3 9951 port [tcp/*] succeeded!
+Connection from [10.0.0.2] port 9951 [tcp/*] accepted (family 2, sport 52985)
+Connection closed, listening again.
+Connection from [10.0.0.5] port 9951 [tcp/*] accepted (family 2, sport 35175)
+Connection closed, listening again.
+Connection from [10.0.0.6] port 9951 [tcp/*] accepted (family 2, sport 54942)
+Connection closed, listening again.
+Connection from [10.0.0.7] port 9951 [tcp/*] accepted (family 2, sport 55982)
+Connection closed, listening again.
+Connection from [10.0.0.8] port 9951 [tcp/*] accepted (family 2, sport 44121)
+Connection closed, listening again.
+Connection from [10.0.0.9] port 9951 [tcp/*] accepted (family 2, sport 60079)
+Connection closed, listening again.
+Connection from [10.0.0.10] port 9951 [tcp/*] accepted (family 2, sport 35301)
+Connection closed, listening again.
+Listening on [10.0.0.3] (family 0, port 9952)
+Connecting to 10.0.0.3:9952 from 10.0.0.1 (e1) with TCP
+nc: connect to 10.0.0.3 port 9952 (tcp) timed out: Operation now in progress
+Connecting to 10.0.0.3:9952 from 10.0.0.2 (e2) with TCP
+Connection to 10.0.0.3 9952 port [tcp/*] succeeded!
+Connecting to 10.0.0.3:9952 from 10.0.0.4 (mobile1) with TCP
+nc: connect to 10.0.0.3 port 9952 (tcp) timed out: Operation now in progress
+Connecting to 10.0.0.3:9952 from 10.0.0.5 (server1) with TCP
+Connection to 10.0.0.3 9952 port [tcp/*] succeeded!
+Connecting to 10.0.0.3:9952 from 10.0.0.6 (server2) with TCP
+Connection to 10.0.0.3 9952 port [tcp/*] succeeded!
+Connecting to 10.0.0.3:9952 from 10.0.0.7 (server3) with TCP
+Connection to 10.0.0.3 9952 port [tcp/*] succeeded!
+Connecting to 10.0.0.3:9952 from 10.0.0.8 (w1) with TCP
+Connection to 10.0.0.3 9952 port [tcp/*] succeeded!
+Connecting to 10.0.0.3:9952 from 10.0.0.9 (w2) with TCP
+Connection to 10.0.0.3 9952 port [tcp/*] succeeded!
+Connecting to 10.0.0.3:9952 from 10.0.0.10 (w3) with TCP
+Connection to 10.0.0.3 9952 port [tcp/*] succeeded!
+*** Iperf: testing UDP bandwidth between mobile1 and e1 
+could not parse iperf output: ------------------------------------------------------------
+Server listening on UDP port 5883
+Receiving 1470 byte datagrams
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+*** Results: ['1M', '', '1000 Kbits/sec']
+*** Iperf: testing UDP bandwidth between mobile1 and e2 
+could not parse iperf output: ------------------------------------------------------------
+Server listening on UDP port 5883
+Receiving 1470 byte datagrams
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+*** Results: ['1M', '', '1000 Kbits/sec']
+*** Iperf: testing UDP bandwidth between mobile1 and e3 
+could not parse iperf output: ------------------------------------------------------------
+Server listening on UDP port 5883
+Receiving 1470 byte datagrams
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+*** Results: ['1M', '', '1000 Kbits/sec']
+*** Iperf: testing UDP bandwidth between mobile1 and e1 
+could not parse iperf output: ------------------------------------------------------------
+Server listening on UDP port 588
+Receiving 1470 byte datagrams
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+*** Results: ['1M', '', '1000 Kbits/sec']
+*** Iperf: testing UDP bandwidth between mobile1 and e2 
+could not parse iperf output: ------------------------------------------------------------
+Server listening on UDP port 588
+Receiving 1470 byte datagrams
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+*** Results: ['1M', '', '1000 Kbits/sec']
+*** Iperf: testing UDP bandwidth between mobile1 and e3 
+could not parse iperf output: ------------------------------------------------------------
+Server listening on UDP port 588
+Receiving 1470 byte datagrams
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+*** Results: ['1M', '', '1000 Kbits/sec']
+Listening on [10.0.0.1] (family 0, port 5883)
+Connecting to 10.0.0.1:5883 from 10.0.0.2 (e2) with TCP
+Connection to 10.0.0.1 5883 port [tcp/*] succeeded!
+Connecting to 10.0.0.1:5883 from 10.0.0.3 (e3) with TCP
+Connection to 10.0.0.1 5883 port [tcp/*] succeeded!
+Connecting to 10.0.0.1:5883 from 10.0.0.4 (mobile1) with TCP
+nc: connect to 10.0.0.1 port 5883 (tcp) timed out: Operation now in progress
+Connecting to 10.0.0.1:5883 from 10.0.0.5 (server1) with TCP
+Connection to 10.0.0.1 5883 port [tcp/*] succeeded!
+Connecting to 10.0.0.1:5883 from 10.0.0.6 (server2) with TCP
+Connection to 10.0.0.1 5883 port [tcp/*] succeeded!
+Connecting to 10.0.0.1:5883 from 10.0.0.7 (server3) with TCP
+Connection to 10.0.0.1 5883 port [tcp/*] succeeded!
+Connecting to 10.0.0.1:5883 from 10.0.0.8 (w1) with TCP
+Connection to 10.0.0.1 5883 port [tcp/*] succeeded!
+Connecting to 10.0.0.1:5883 from 10.0.0.9 (w2) with TCP
+Connection to 10.0.0.1 5883 port [tcp/*] succeeded!
+Connecting to 10.0.0.1:5883 from 10.0.0.10 (w3) with TCP
+Connection to 10.0.0.1 5883 port [tcp/*] succeeded!
+Listening on [10.0.0.2] (family 0, port 5883)
+Connection from [10.0.0.2] port 5883 [tcp/*] accepted (family 2, sport 45804)
+Connection closed, listening again.
+Connection from [10.0.0.3] port 5883 [tcp/*] accepted (family 2, sport 38557)
+Connection closed, listening again.
+Connection from [10.0.0.5] port 5883 [tcp/*] accepted (family 2, sport 59977)
+Connection closed, listening again.
+Connection from [10.0.0.6] port 5883 [tcp/*] accepted (family 2, sport 43956)
+Connection closed, listening again.
+Connection from [10.0.0.7] port 5883 [tcp/*] accepted (family 2, sport 38328)
+Connection closed, listening again.
+Connection from [10.0.0.8] port 5883 [tcp/*] accepted (family 2, sport 59301)
+Connection closed, listening again.
+Connection from [10.0.0.9] port 5883 [tcp/*] accepted (family 2, sport 35469)
+Connection closed, listening again.
+Connection from [10.0.0.10] port 5883 [tcp/*] accepted (family 2, sport 52466)
+Connection closed, listening again.
+Connecting to 10.0.0.2:5883 from 10.0.0.1 (e1) with TCP
+Connection to 10.0.0.2 5883 port [tcp/*] succeeded!
+Connecting to 10.0.0.2:5883 from 10.0.0.3 (e3) with TCP
+Connection to 10.0.0.2 5883 port [tcp/*] succeeded!
+Connecting to 10.0.0.2:5883 from 10.0.0.4 (mobile1) with TCP
+nc: connect to 10.0.0.2 port 5883 (tcp) timed out: Operation now in progress
+Connecting to 10.0.0.2:5883 from 10.0.0.5 (server1) with TCP
+Connection to 10.0.0.2 5883 port [tcp/*] succeeded!
+Connecting to 10.0.0.2:5883 from 10.0.0.6 (server2) with TCP
+Connection to 10.0.0.2 5883 port [tcp/*] succeeded!
+Connecting to 10.0.0.2:5883 from 10.0.0.7 (server3) with TCP
+Connection to 10.0.0.2 5883 port [tcp/*] succeeded!
+Connecting to 10.0.0.2:5883 from 10.0.0.8 (w1) with TCP
+Connection to 10.0.0.2 5883 port [tcp/*] succeeded!
+Connecting to 10.0.0.2:5883 from 10.0.0.9 (w2) with TCP
+Connection to 10.0.0.2 5883 port [tcp/*] succeeded!
+Connecting to 10.0.0.2:5883 from 10.0.0.10 (w3) with TCP
+Connection to 10.0.0.2 5883 port [tcp/*] succeeded!
+Listening on [10.0.0.3] (family 0, port 5883)
+Connecting to 10.0.0.3:5883 from 10.0.0.1 (e1) with TCP
+Connection to 10.0.0.3 5883 port [tcp/*] succeeded!
+Connection from [10.0.0.1] port 5883 [tcp/*] accepted (family 2, sport 38217)
+Connection closed, listening again.
+Connection from [10.0.0.3] port 5883 [tcp/*] accepted (family 2, sport 43904)
+Connection closed, listening again.
+Connection from [10.0.0.5] port 5883 [tcp/*] accepted (family 2, sport 36786)
+Connection closed, listening again.
+Connection from [10.0.0.6] port 5883 [tcp/*] accepted (family 2, sport 54049)
+Connection closed, listening again.
+Connection from [10.0.0.7] port 5883 [tcp/*] accepted (family 2, sport 37236)
+Connection closed, listening again.
+Connection from [10.0.0.8] port 5883 [tcp/*] accepted (family 2, sport 43357)
+Connection closed, listening again.
+Connection from [10.0.0.9] port 5883 [tcp/*] accepted (family 2, sport 39346)
+Connection closed, listening again.
+Connection from [10.0.0.10] port 5883 [tcp/*] accepted (family 2, sport 39240)
+Connection closed, listening again.
+Connecting to 10.0.0.3:5883 from 10.0.0.2 (e2) with TCP
+Connection to 10.0.0.3 5883 port [tcp/*] succeeded!
+Connecting to 10.0.0.3:5883 from 10.0.0.4 (mobile1) with TCP
+nc: connect to 10.0.0.3 port 5883 (tcp) timed out: Operation now in progress
+Connecting to 10.0.0.3:5883 from 10.0.0.5 (server1) with TCP
+Connection to 10.0.0.3 5883 port [tcp/*] succeeded!
+Connecting to 10.0.0.3:5883 from 10.0.0.6 (server2) with TCP
+Connection to 10.0.0.3 5883 port [tcp/*] succeeded!
+Connecting to 10.0.0.3:5883 from 10.0.0.7 (server3) with TCP
+Connection to 10.0.0.3 5883 port [tcp/*] succeeded!
+Connecting to 10.0.0.3:5883 from 10.0.0.8 (w1) with TCP
+Connection to 10.0.0.3 5883 port [tcp/*] succeeded!
+Connecting to 10.0.0.3:5883 from 10.0.0.9 (w2) with TCP
+Connection to 10.0.0.3 5883 port [tcp/*] succeeded!
+Connecting to 10.0.0.3:5883 from 10.0.0.10 (w3) with TCP
+Connection to 10.0.0.3 5883 port [tcp/*] succeeded!
+Listening on [10.0.0.1] (family 0, port 588)
+Connecting to 10.0.0.1:588 from 10.0.0.2 (e2) with TCP
+Connection to 10.0.0.1 588 port [tcp/*] succeeded!
+Connection from [10.0.0.1] port 5883 [tcp/*] accepted (family 2, sport 48943)
+Connection closed, listening again.
+Connection from [10.0.0.2] port 5883 [tcp/*] accepted (family 2, sport 41448)
+Connection closed, listening again.
+Connection from [10.0.0.5] port 5883 [tcp/*] accepted (family 2, sport 52256)
+Connection closed, listening again.
+Connection from [10.0.0.6] port 5883 [tcp/*] accepted (family 2, sport 39151)
+Connection closed, listening again.
+Connection from [10.0.0.7] port 5883 [tcp/*] accepted (family 2, sport 58422)
+Connection closed, listening again.
+Connection from [10.0.0.8] port 5883 [tcp/*] accepted (family 2, sport 39420)
+Connection closed, listening again.
+Connection from [10.0.0.9] port 5883 [tcp/*] accepted (family 2, sport 42287)
+Connection closed, listening again.
+Connection from [10.0.0.10] port 5883 [tcp/*] accepted (family 2, sport 44415)
+Connection closed, listening again.
+Connecting to 10.0.0.1:588 from 10.0.0.3 (e3) with TCP
+Connection to 10.0.0.1 588 port [tcp/*] succeeded!
+Connecting to 10.0.0.1:588 from 10.0.0.4 (mobile1) with TCP
+nc: connect to 10.0.0.1 port 588 (tcp) timed out: Operation now in progress
+Connecting to 10.0.0.1:588 from 10.0.0.5 (server1) with TCP
+Connection to 10.0.0.1 588 port [tcp/*] succeeded!
+Connecting to 10.0.0.1:588 from 10.0.0.6 (server2) with TCP
+Connection to 10.0.0.1 588 port [tcp/*] succeeded!
+Connecting to 10.0.0.1:588 from 10.0.0.7 (server3) with TCP
+Connection to 10.0.0.1 588 port [tcp/*] succeeded!
+Connecting to 10.0.0.1:588 from 10.0.0.8 (w1) with TCP
+Connection to 10.0.0.1 588 port [tcp/*] succeeded!
+Connecting to 10.0.0.1:588 from 10.0.0.9 (w2) with TCP
+Connection to 10.0.0.1 588 port [tcp/*] succeeded!
+Connecting to 10.0.0.1:588 from 10.0.0.10 (w3) with TCP
+Connection to 10.0.0.1 588 port [tcp/*] succeeded!
+Listening on [10.0.0.2] (family 0, port 588)
+Connection from [10.0.0.2] port 588 [tcp/*] accepted (family 2, sport 36444)
+Connection closed, listening again.
+Connection from [10.0.0.3] port 588 [tcp/*] accepted (family 2, sport 39609)
+Connection closed, listening again.
+Connection from [10.0.0.5] port 588 [tcp/*] accepted (family 2, sport 40464)
+Connection closed, listening again.
+Connection from [10.0.0.6] port 588 [tcp/*] accepted (family 2, sport 54943)
+Connection closed, listening again.
+Connection from [10.0.0.7] port 588 [tcp/*] accepted (family 2, sport 45914)
+Connection closed, listening again.
+Connection from [10.0.0.8] port 588 [tcp/*] accepted (family 2, sport 55820)
+Connection closed, listening again.
+Connection from [10.0.0.9] port 588 [tcp/*] accepted (family 2, sport 33543)
+Connection closed, listening again.
+Connection from [10.0.0.10] port 588 [tcp/*] accepted (family 2, sport 40670)
+Connection closed, listening again.
+Connecting to 10.0.0.2:588 from 10.0.0.1 (e1) with TCP
+Connection to 10.0.0.2 588 port [tcp/*] succeeded!
+Connecting to 10.0.0.2:588 from 10.0.0.3 (e3) with TCP
+Connection to 10.0.0.2 588 port [tcp/*] succeeded!
+Connecting to 10.0.0.2:588 from 10.0.0.4 (mobile1) with TCP
+nc: connect to 10.0.0.2 port 588 (tcp) timed out: Operation now in progress
+Connecting to 10.0.0.2:588 from 10.0.0.5 (server1) with TCP
+Connection to 10.0.0.2 588 port [tcp/*] succeeded!
+Connecting to 10.0.0.2:588 from 10.0.0.6 (server2) with TCP
+Connection to 10.0.0.2 588 port [tcp/*] succeeded!
+Connecting to 10.0.0.2:588 from 10.0.0.7 (server3) with TCP
+Connection to 10.0.0.2 588 port [tcp/*] succeeded!
+Connecting to 10.0.0.2:588 from 10.0.0.8 (w1) with TCP
+Connection to 10.0.0.2 588 port [tcp/*] succeeded!
+Connecting to 10.0.0.2:588 from 10.0.0.9 (w2) with TCP
+Connection to 10.0.0.2 588 port [tcp/*] succeeded!
+Connecting to 10.0.0.2:588 from 10.0.0.10 (w3) with TCP
+Connection to 10.0.0.2 588 port [tcp/*] succeeded!
+Listening on [10.0.0.3] (family 0, port 588)
+Connecting to 10.0.0.3:588 from 10.0.0.1 (e1) with TCP
+Connection to 10.0.0.3 588 port [tcp/*] succeeded!
+Connection from [10.0.0.1] port 588 [tcp/*] accepted (family 2, sport 40984)
+Connection closed, listening again.
+Connection from [10.0.0.3] port 588 [tcp/*] accepted (family 2, sport 45872)
+Connection closed, listening again.
+Connection from [10.0.0.5] port 588 [tcp/*] accepted (family 2, sport 48227)
+Connection closed, listening again.
+Connection from [10.0.0.6] port 588 [tcp/*] accepted (family 2, sport 38919)
+Connection closed, listening again.
+Connection from [10.0.0.7] port 588 [tcp/*] accepted (family 2, sport 54982)
+Connection closed, listening again.
+Connection from [10.0.0.8] port 588 [tcp/*] accepted (family 2, sport 53816)
+Connection closed, listening again.
+Connection from [10.0.0.9] port 588 [tcp/*] accepted (family 2, sport 33012)
+Connection closed, listening again.
+Connection from [10.0.0.10] port 588 [tcp/*] accepted (family 2, sport 37552)
+Connection closed, listening again.
+Connecting to 10.0.0.3:588 from 10.0.0.2 (e2) with TCP
+Connection to 10.0.0.3 588 port [tcp/*] succeeded!
+Connecting to 10.0.0.3:588 from 10.0.0.4 (mobile1) with TCP
+nc: connect to 10.0.0.3 port 588 (tcp) timed out: Operation now in progress
+Connecting to 10.0.0.3:588 from 10.0.0.5 (server1) with TCP
+Connection to 10.0.0.3 588 port [tcp/*] succeeded!
+Connecting to 10.0.0.3:588 from 10.0.0.6 (server2) with TCP
+Connection to 10.0.0.3 588 port [tcp/*] succeeded!
+Connecting to 10.0.0.3:588 from 10.0.0.7 (server3) with TCP
+Connection to 10.0.0.3 588 port [tcp/*] succeeded!
+Connecting to 10.0.0.3:588 from 10.0.0.8 (w1) with TCP
+Connection to 10.0.0.3 588 port [tcp/*] succeeded!
+Connecting to 10.0.0.3:588 from 10.0.0.9 (w2) with TCP
+Connection to 10.0.0.3 588 port [tcp/*] succeeded!
+Connecting to 10.0.0.3:588 from 10.0.0.10 (w3) with TCP
+Connection to 10.0.0.3 588 port [tcp/*] succeeded!
+*** Iperf: testing UDP bandwidth between w1 and e1 
+*** Results: ['1M', '1.00 Mbits/sec', '1.00 Mbits/sec']
+*** Iperf: testing UDP bandwidth between w1 and e2 
+*** Results: ['1M', '1000 Kbits/sec', '1000 Kbits/sec']
+*** Iperf: testing UDP bandwidth between w1 and e3 
+*** Results: ['1M', '1.00 Mbits/sec', '1.00 Mbits/sec']
+Starting topology
+**
+
+part 1
+**These should fail
+**These should succeed
+**
+
+part 2
+**These should fail
+Data could not be send from port ?ephemeral? on server1 to port 22 on e1
+Send Rate from port 22 on e1 to port ?ephemeral? on server1 was 1000 Kbits/sec
+Data could not be send from port ?ephemeral? on server1 to port 22 on e2
+Send Rate from port 22 on e2 to port ?ephemeral? on server1 was 1000 Kbits/sec
+Data could not be send from port ?ephemeral? on server1 to port 22 on e3
+Send Rate from port 22 on e3 to port ?ephemeral? on server1 was 1000 Kbits/sec
+**These should succeed
+Send Rate from port ?ephemeral? on server1 to port 23 on e2 was 1.00 Mbits/sec
+Send Rate from port 23 on e2 to port ?ephemeral? on server1 was 1.00 Mbits/sec
+Send Rate from port ?ephemeral? on server1 to port 23 on e1 was 1.00 Mbits/sec
+Send Rate from port 23 on e1 to port ?ephemeral? on server1 was 1.00 Mbits/sec
+Send Rate from port ?ephemeral? on server1 to port 23 on e3 was 1000 Kbits/sec
+Send Rate from port 23 on e3 to port ?ephemeral? on server1 was 1000 Kbits/sec
+**
+
+part 3
+**These should fail
+Data could not be send from port ?ephemeral? on e1 to port 123 on server1
+Send Rate from port 123 on server1 to port ?ephemeral? on e1 was 1000 Kbits/sec
+Data could not be send from port ?ephemeral? on e1 to port 123 on server2
+Send Rate from port 123 on server2 to port ?ephemeral? on e1 was 1000 Kbits/sec
+Data could not be send from port ?ephemeral? on e1 to port 53 on server1
+Send Rate from port 53 on server1 to port ?ephemeral? on e1 was 1000 Kbits/sec
+Data could not be send from port ?ephemeral? on e1 to port 53 on server2
+Send Rate from port 53 on server2 to port ?ephemeral? on e1 was 1000 Kbits/sec
+**These should succeed
+Send Rate from port ?ephemeral? on e1 to port 13 on server1 was 1.00 Mbits/sec
+Send Rate from port 13 on server1 to port ?ephemeral? on e1 was 1.00 Mbits/sec
+Send Rate from port ?ephemeral? on e1 to port 13 on server2 was 1.00 Mbits/sec
+Send Rate from port 13 on server2 to port ?ephemeral? on e1 was 1.00 Mbits/sec
+Send Rate from port ?ephemeral? on e1 to port 5 on server1 was 1000 Kbits/sec
+Send Rate from port 5 on server1 to port ?ephemeral? on e1 was 1000 Kbits/sec
+Send Rate from port ?ephemeral? on e1 to port 5 on server2 was 1.00 Mbits/sec
+Send Rate from port 5 on server2 to port ?ephemeral? on e1 was 1.00 Mbits/sec
+Send Rate from port ?ephemeral? on e1 to port 123 on server3 was 1.00 Mbits/sec
+Send Rate from port 123 on server3 to port ?ephemeral? on e1 was 1.00 Mbits/sec
+Send Rate from port ?ephemeral? on e1 to port 53 on server3 was 1000 Kbits/sec
+Send Rate from port 53 on server3 to port ?ephemeral? on e1 was 1000 Kbits/sec
+**
+
+part 5
+**These should fail only from e1 and from mobile1 (because of rule 6)
+**
+
+part 6
+**These should fail
+Data could not be send from port ?ephemeral? on mobile1 to port 5883 on e1
+Send Rate from port 5883 on e1 to port ?ephemeral? on mobile1 was 1000 Kbits/sec
+Data could not be send from port ?ephemeral? on mobile1 to port 5883 on e2
+Send Rate from port 5883 on e2 to port ?ephemeral? on mobile1 was 1000 Kbits/sec
+Data could not be send from port ?ephemeral? on mobile1 to port 5883 on e3
+Send Rate from port 5883 on e3 to port ?ephemeral? on mobile1 was 1000 Kbits/sec
+Data could not be send from port ?ephemeral? on mobile1 to port 588 on e1
+Send Rate from port 588 on e1 to port ?ephemeral? on mobile1 was 1000 Kbits/sec
+Data could not be send from port ?ephemeral? on mobile1 to port 588 on e2
+Send Rate from port 588 on e2 to port ?ephemeral? on mobile1 was 1000 Kbits/sec
+Data could not be send from port ?ephemeral? on mobile1 to port 588 on e3
+Send Rate from port 588 on e3 to port ?ephemeral? on mobile1 was 1000 Kbits/sec
+**These should fail only from mobile 1
+**These should succeed
+Send Rate from port ?ephemeral? on w1 to port 5883 on e1 was 1.00 Mbits/sec
+Send Rate from port 5883 on e1 to port ?ephemeral? on w1 was 1.00 Mbits/sec
+Send Rate from port ?ephemeral? on w1 to port 5883 on e2 was 1000 Kbits/sec
+Send Rate from port 5883 on e2 to port ?ephemeral? on w1 was 1000 Kbits/sec
+Send Rate from port *** Iperf: testing UDP bandwidth between w1 and e1 
+*** Results: ['1M', '1.00 Mbits/sec', '1.00 Mbits/sec']
+*** Iperf: testing UDP bandwidth between w1 and e2 
+*** Results: ['1M', '1.00 Mbits/sec', '1.00 Mbits/sec']
+*** Iperf: testing UDP bandwidth between w1 and e3 
+*** Results: ['1M', '1000 Kbits/sec', '1000 Kbits/sec']
+*** Iperf: testing UDP bandwidth between e1 and server3 
+*** Results: ['1M', '1000 Kbits/sec', '1000 Kbits/sec']
+*** Iperf: testing UDP bandwidth between w1 and server3 
+*** Results: ['1M', '1.00 Mbits/sec', '1.00 Mbits/sec']
+*** Iperf: testing UDP bandwidth between server1 and server3 
+*** Results: ['1M', '1.00 Mbits/sec', '1.00 Mbits/sec']
+*** Iperf: testing UDP bandwidth between e1 and server3 
+*** Results: ['1M', '1000 Kbits/sec', '1000 Kbits/sec']
+*** Iperf: testing UDP bandwidth between e1 and server2 
+*** Results: ['1M', '1.00 Mbits/sec', '1.00 Mbits/sec']
+*** Iperf: testing UDP bandwidth between w1 and server2 
+*** Results: ['1M', '1.00 Mbits/sec', '1.00 Mbits/sec']
+*** Iperf: testing UDP bandwidth between server1 and server2 
+*** Results: ['1M', '1.00 Mbits/sec', '1.00 Mbits/sec']
+*** Iperf: testing UDP bandwidth between e1 and server2 
+*** Results: ['1M', '1000 Kbits/sec', '1000 Kbits/sec']
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
+
+Interrupt
