@@ -7,14 +7,6 @@ from pyretic.lib.query import packets
 from pyretic.core import packet
 
 def make_firewall_policy(config):
-
-	# You may place any user-defined functions in this space.
-	# You are not required to use this space - it is available if needed.
-
-	# feel free to remove the following "print config" line once you no longer need it
-	print config
-
-	# The rules list contains all of the individual rule entries.
 	rules = [] 
 
 	for entry in config:
@@ -27,24 +19,16 @@ def make_firewall_policy(config):
 		if("macaddr_src" in entry_subset.keys()):
 			rule = rule & match(srcmac=EthAddr(entry["macaddr_src"]))
 
-		protocol = entry['protocol']
-		if (protocol != '-'):
-			protocolNamePyretic = None
-			protocolNamePyretic2 = None
-			if (protocol == 'T'):
-				protocolNamePyretic = packet.TCP_PROTO
-			if (protocol == 'U'):
-				protocolNamePyretic = packet.UDP_PROTO
-			if (protocol == 'I'):
-				protocolNamePyretic = packet.ICMP_PROTO
-			if (protocol == 'B'):
-				protocolNamePyretic = packet.TCP_PROTO
-				protocolNamePyretic2 = packet.UDP_PROTO
-		if (protocolNamePyretic2 is None):
-			rule = rule & match(protocol=protocolNamePyretic)
-		else:
-			rule = rule & (match(protocol=protocolNamePyretic) | match(protocol=protocolNamePyretic2))
-		
+		if("protocol" in entry_subset.keys()):
+			proto_a = packet.TCP_PROTO if entry["protocol"] == "T" else None
+			proto_a = packet.UDP_PROTO if entry["protocol"] == "U" else proto_a
+			proto_a = packet.ICMP_PROTO if entry["protocol"] == "I" else proto_a
+			(proto_a,proto_b) = (packet.TCP_PROTO, packet.UDP_PROTO) if entry["protocol"] == "B" else (proto_a,None)
+			if (proto_b is None):
+				rule = rule & match(protocol=proto_a)
+			else:
+				rule = rule & (match(protocol=proto_a) | match(protocol=proto_b))
+				
 		if("port_src" in entry_subset.keys()):
 			rule = rule & match(srcport=int(entry["port_src"]))
 
@@ -57,9 +41,7 @@ def make_firewall_policy(config):
 		if("ipaddr_dst" in entry_subset.keys()):
 			rule = rule & match(dstip=IPAddr(entry["ipaddr_dst"]))
 
-
 		rules.append(rule)
-		pass
 
 	allowed = ~(union(rules))
 
